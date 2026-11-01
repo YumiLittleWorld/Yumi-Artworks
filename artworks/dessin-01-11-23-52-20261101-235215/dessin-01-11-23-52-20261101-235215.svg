@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c53e61"/><stop offset="1" stop-color="#de9869"/></linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#bg)"/>
+<polyline points="0,327 40,298 80,329 120,332 160,333 200,312 240,325 280,316 320,294 360,322 400,328 440,318 480,302 520,318 560,293 600,312 640,310 680,321 720,312 760,321 800,303 840,309 880,335 920,303 960,304 1000,305 1040,310" fill="none" stroke="#41a466" stroke-width="3" opacity="0.55"/>
+<polyline points="0,320 40,320 80,309 120,337 160,341 200,334 240,302 280,357 320,321 360,339 400,326 440,296 480,340 520,305 560,327 600,300 640,336 680,305 720,352 760,314 800,355 840,311 880,357 920,311 960,310 1000,322 1040,302" fill="none" stroke="#41a466" stroke-width="4" opacity="0.55"/>
+<polyline points="0,383 40,384 80,423 120,370 160,404 200,407 240,395 280,387 320,381 360,366 400,380 440,402 480,404 520,374 560,377 600,364 640,366 680,388 720,404 760,407 800,403 840,395 880,405 920,390 960,385 1000,366 1040,381" fill="none" stroke="#6cc34a" stroke-width="3" opacity="0.55"/>
+<circle cx="400" cy="545" r="11" fill="#c53e61" opacity="0.49"/>
+<circle cx="429" cy="366" r="78" fill="#de9869" opacity="0.87"/>
+<rect x="640" y="121" width="83" height="41" fill="#c53e61" opacity="0.39" transform="rotate(74 640 121)"/>
+<circle cx="363" cy="492" r="52" fill="#c53e61" opacity="0.68"/>
+<circle cx="191" cy="540" r="77" fill="#41a466" opacity="0.84"/>
+<polygon points="418,266 369,314 321,266 369,218" fill="#c53e61" opacity="0.74"/>
+<circle cx="176" cy="117" r="74" fill="#cad338" opacity="0.42"/>
+<rect x="247" y="502" width="61" height="30" fill="#6cc34a" opacity="0.52" transform="rotate(60 247 502)"/>
+<polygon points="502,319 456,381 383,357 383,281 456,257" fill="#c53e61" opacity="0.6"/>
+<circle cx="618" cy="741" r="15" fill="#6cc34a" opacity="0.52"/>
+<circle cx="755" cy="307" r="35" fill="#6cc34a" opacity="0.68"/>
+<rect x="147" y="652" width="144" height="72" fill="#cad338" opacity="0.84" transform="rotate(21 147 652)"/>
+<circle cx="908" cy="714" r="34" fill="#6cc34a" opacity="0.74"/>
+<circle cx="501" cy="42" r="67" fill="#cad338" opacity="0.72"/>
+<text x="1000" y="748" text-anchor="end" font-family="sans-serif" font-size="18" fill="#ffffff" opacity="0.6">Dessin 01/11 23:52</text>
+</svg>
