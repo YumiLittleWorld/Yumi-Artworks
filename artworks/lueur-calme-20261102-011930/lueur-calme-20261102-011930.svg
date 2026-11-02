@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#172A3A"/><stop offset="1" stop-color="#3F6C78"/></linearGradient>
+</defs>
+<rect width="1024" height="768" fill="url(#bg)"/>
+<polyline points="0,375 40,378 80,379 120,365 160,369 200,368 240,380 280,379 320,376 360,368 400,369 440,366 480,366 520,371 560,371 600,375 640,362 680,365 720,377 760,371 800,375 840,376 880,364 920,379 960,372 1000,373 1040,373" fill="none" stroke="#E9CFA7" stroke-width="4" opacity="0.55"/>
+<polyline points="0,264 40,309 80,296 120,275 160,291 200,272 240,294 280,285 320,335 360,321 400,316 440,332 480,320 520,331 560,317 600,290 640,310 680,310 720,322 760,318 800,266 840,289 880,292 920,325 960,283 1000,326 1040,309" fill="none" stroke="#A7C4BC" stroke-width="7" opacity="0.55"/>
+<polyline points="0,496 40,508 80,491 120,494 160,497 200,453 240,458 280,491 320,471 360,486 400,455 440,482 480,494 520,495 560,477 600,494 640,475 680,456 720,486 760,497 800,450 840,480 880,504 920,507 960,503 1000,473 1040,463" fill="none" stroke="#A7C4BC" stroke-width="5" opacity="0.55"/>
+<polyline points="0,315 40,323 80,338 120,318 160,291 200,309 240,347 280,295 320,304 360,303 400,332 440,335 480,344 520,355 560,306 600,306 640,289 680,303 720,321 760,348 800,313 840,298 880,321 920,341 960,329 1000,344 1040,290" fill="none" stroke="#E9CFA7" stroke-width="6" opacity="0.55"/>
+<polygon points="1024,19 1000,42 977,19 1000,-4" fill="#A7C4BC" opacity="0.86"/>
+<rect x="493" y="580" width="40" height="20" fill="#172A3A" opacity="0.4" transform="rotate(8 493 580)"/>
+<circle cx="262" cy="675" r="70" fill="#3F6C78" opacity="0.87"/>
+<circle cx="866" cy="216" r="79" fill="#A7C4BC" opacity="0.77"/>
+<rect x="817" y="687" width="115" height="57" fill="#A7C4BC" opacity="0.59" transform="rotate(15 817 687)"/>
+<circle cx="460" cy="65" r="53" fill="#3F6C78" opacity="0.36"/>
+<circle cx="14" cy="72" r="17" fill="#3F6C78" opacity="0.48"/>
+<rect x="145" y="526" width="80" height="40" fill="#A7C4BC" opacity="0.5" transform="rotate(27 145 526)"/>
+<circle cx="968" cy="248" r="70" fill="#3F6C78" opacity="0.79"/>
+<rect x="198" y="674" width="130" height="65" fill="#172A3A" opacity="0.54" transform="rotate(59 198 674)"/>
+<text x="1000" y="748" text-anchor="end" font-family="sans-serif" font-size="18" fill="#ffffff" opacity="0.6">Lueur calme</text>
+</svg>
