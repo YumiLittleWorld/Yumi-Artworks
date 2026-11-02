@@ -1,0 +1,15 @@
+{
+  "title": "Lueur calme",
+  "seed": 42,
+  "palette": [
+    "#172A3A",
+    "#3F6C78",
+    "#A7C4BC",
+    "#E9CFA7"
+  ],
+  "width": 1024,
+  "height": 768,
+  "svg": "lueur-calme-20261102-011930.svg",
+  "png": "lueur-calme-20261102-011930.png",
+  "created_at": "2026-11-02T01:19:30+0100"
+}
