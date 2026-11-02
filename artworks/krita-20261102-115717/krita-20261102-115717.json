@@ -1,0 +1,15 @@
+{
+  "title": "krita-20261102-115717",
+  "kra": "krita-20261102-115717.kra",
+  "canvas": [
+    1600,
+    1000
+  ],
+  "layers": [
+    "Background",
+    "Fond",
+    "Encre"
+  ],
+  "ops": 7,
+  "updated": "2026-11-02T11:57:34+0100"
+}
