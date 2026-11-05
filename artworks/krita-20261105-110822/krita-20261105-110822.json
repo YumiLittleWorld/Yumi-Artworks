@@ -1,0 +1,16 @@
+{
+  "title": "krita-20261105-110822",
+  "kra": "krita-20261105-110822.kra",
+  "canvas": [
+    1600,
+    1000
+  ],
+  "layers": [
+    "Background",
+    "Fond",
+    "Lune et ciel",
+    "Nuit lunaire"
+  ],
+  "ops": 15,
+  "updated": "2026-11-05T11:08:25+0100"
+}
